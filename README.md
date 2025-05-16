@@ -54,7 +54,7 @@ python QRcode_generator.py
 
 ## 🛠️ Customization
 
-- It can modify the script to:
+- It can be modified the script to:
   - Reading input from the command line or a GUI.
   - Adding error checking for file input/output.
   - By customizing QR code parameters like size, border, and error correction.
